@@ -10,6 +10,5 @@
 6. Click **"Deploy"** and test the function
 
 
-![Image Alt](https://github.com/VarshithRao/Docker-Kurbernetes/blob/6d2a2754e1ce659a92965cda7c45cc979a731e81/Day-3/Screenshot-2025-04-11-112510.png)
 
-![Image Alt](https://github.com/VarshithRao/Docker-Kurbernetes/blob/6d2a2754e1ce659a92965cda7c45cc979a731e81/Day-3/Screenshot-2025-04-14-111614.png)
+![lambda](https://github.com/user-attachments/assets/2f568f1a-de0c-4367-aca7-511a12e8a92b)
